@@ -1,6 +1,6 @@
 # SportExpert · Sistema Experto Determinista de Entrenamiento Deportivo
 
-- **Aplicación (Google AI Studio):** https://ai.studio/apps/916ce17a-34c6-4d60-aedb-0e04edde43fe
+- **Aplicación publicada (Google AI Studio):** https://sportexpert.ai.studio
 - **Repositorio:** https://github.com/aimardf/entrenaexpert
 
 **SportExpert** es una aplicación web basada en un sistema experto determinista mediante reglas de inferencia **SI-ENTONCES** (*IF-THEN*), concebida para la prescripción de entrenamientos personalizados y seguros a deportistas federados adultos en **fútbol**, **balonmano** y **baloncesto**.
