@@ -1,0 +1,5 @@
+{
+  "name": "EntrenaExpert",
+  "description": "Sistema experto basado en reglas que genera planes semanales de entrenamiento para fútbol, baloncesto, voleibol, balonmano y tenis, explicando qué reglas y fuentes justifican cada recomendación.",
+  "requestFramePermissions": []
+}
