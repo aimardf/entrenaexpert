@@ -2,6 +2,7 @@
 
 EntrenaExpert es un **sistema experto basado en reglas** que genera un plan semanal de entrenamiento para **fútbol, baloncesto, voleibol, balonmano y tenis**. Pregunta por el deporte, la edad, el nivel, los objetivos, los días disponibles, el momento de la temporada y las molestias, y devuelve un plan día a día **explicando qué reglas y qué fuentes justifican cada decisión**.
 
+- **Repositorio:** https://github.com/aimardf/entrenaexpert
 - **Aplicación publicada:** _pega aquí el enlace público de Google AI Studio_
 - **Vídeo demostrativo:** _enlace privado para el docente_
 
